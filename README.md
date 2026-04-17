@@ -14,7 +14,7 @@ Fun Facts:
 
 
 ## Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-m-elshahed&hide_progress=true&theme="radical")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-m-elshahed&hide_progress=true&theme=radical)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c)
