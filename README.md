@@ -15,18 +15,19 @@ Fun Facts:
 
 ## Languages
 </details>
-<code><img title="C" alt="C" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></code>
+<code><img title="C" alt="C" width="41px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></code>
 <code><img title="C++" alt="C++" width="40px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /></code>
 <code><img title="Python" alt="python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 </br></br>
 <details>
 
 ## Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github)
-
+</details>
+<code><img title="Git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+</br></br>
+<details>
 
 <!--
 **Abdelrahman-m-elshahed/Abdelrahman-m-elshahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
