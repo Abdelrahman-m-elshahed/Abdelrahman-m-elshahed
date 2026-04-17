@@ -3,11 +3,9 @@
 > Computer Science student @ Ain Shams University in Egypt.
 
 Fun Facts:
-> I like coffee
-> 
-> Naruto is one of my favorate anime
->
-> **Hobbies:** anime, gym, learning new skills  
+- I like coffee 
+- Naruto is one of my favorate anime
+- **Hobbies:** anime, gym, learning new skills  
 
 ---
 ## Languages:
