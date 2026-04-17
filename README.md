@@ -15,7 +15,7 @@ Fun Facts:
 
 ## Languages:
 
-<img src="<i class="devicon-cplusplus-plain colored"></i>" width="40"/>
+<i class="devicon-cplusplus-plain colored"></i>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c)
 
