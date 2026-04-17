@@ -4,8 +4,11 @@
 
 Fun Facts:
 > I like coffee
+> 
 > Naruto is one of my favorate anime
-> ***Hobbies:*** anime, gym, learning new skills  
+>
+> **Hobbies:**
+>> anime, gym, learning new skills  
 
 ---
 ## Languages:
