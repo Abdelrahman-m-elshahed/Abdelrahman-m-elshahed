@@ -2,15 +2,10 @@
 > Abdelrahman Muhammed.
 > Computer Science student @ Ain Shams University in Egypt.
 
-Main languages:
-- C++
-- C
-- Python
-
 Fun Facts:
-- I like coffee
-- Naruto is one of my favorate anime
-- ***Hobbies:*** anime, gym, learning new skills  
+> I like coffee
+> Naruto is one of my favorate anime
+> ***Hobbies:*** anime, gym, learning new skills  
 
 ---
 ## Languages:
