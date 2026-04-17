@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there:
+I'm Abdelrahman Muhammed, a Computer Science student @ Ain Shams University in Egypt.
 
+Main languages:
+- C++
+- C
+- Python
+
+Fun Facts:
+- I like coffee
+- Naruto is one of my favorate anime
+- ***Hobbies:***anime,gym,learning new skills  
 <!--
 **Abdelrahman-m-elshahed/Abdelrahman-m-elshahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
