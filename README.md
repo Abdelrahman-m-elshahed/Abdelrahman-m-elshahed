@@ -1,5 +1,5 @@
 ## Hi there:
-> Abdelrahman Muhammed.
+> Abdelrahman Muhammed,
 > Computer Science student @ Ain Shams University in Egypt.
 
 Fun Facts:
@@ -7,8 +7,7 @@ Fun Facts:
 > 
 > Naruto is one of my favorate anime
 >
-> **Hobbies:**
->> anime, gym, learning new skills  
+> **Hobbies:**> anime, gym, learning new skills  
 
 ---
 ## Languages:
