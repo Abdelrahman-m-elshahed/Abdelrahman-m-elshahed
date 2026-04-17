@@ -9,7 +9,7 @@ Main languages:
 Fun Facts:
 - I like coffee
 - Naruto is one of my favorate anime
-- ***Hobbies:***anime,gym,learning new skills  
+- ***Hobbies:*** anime,gym,learning new skills  
 <!--
 **Abdelrahman-m-elshahed/Abdelrahman-m-elshahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
